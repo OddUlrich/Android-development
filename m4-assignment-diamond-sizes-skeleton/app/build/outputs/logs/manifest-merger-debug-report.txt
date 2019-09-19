@@ -1,0 +1,164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.material:material:1.1.0-alpha02] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/d4a1d18b804d28fd927d88538d8dc335/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/07ae56a6f0611f2310ba487bfad0f50c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/3c6cc1d001d7d2e8440bdaabbe9910d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/2251b74d242d1c44575dd940d7fd591a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/82d357d5145df306cfbab50b69264939/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/97aa1e8db9c7bdd928dbc1ab19e6333b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/52d9f7ef6fe5c5d3e11af99e1487d3c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/79a0fa299b8e7db6215e9897abd0bfce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/e0976aa2b960c09bc631f7a765f47462/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/c23d83af239368c207a03356584a8f32/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/af9665c43acf9b47cec053edc815621b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/02f421b4f4240c3cc1c405dbacd9118e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha02] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/963049739caeb01cd666e98253e63a2c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/093483d76ee1501d9fd53f91689513b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/c2e68a6d891c8b9b8e1d48230e860fa9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/4200c8783a870c7b52434a1201ac25a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/e65d896f1191f0ed2e7bebf608ce1449/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/d291e7c749cb50fd1e3364cae385b2be/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha01] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/d662d90e3d4b98ff14ee474d87ab269f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/9d5630902c8bd2d11fbb701d0fcca9fd/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/e402f29a34095b1e0e3899befaffcaff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/43d3109e4d0607f9e44448cf611fa3ab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/3001e48c9e981b47c6034614cd3207a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/555159a252573a52961f6c612b33b80b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/74ec40ab96f7e84aa0bc6412fdab415b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/ebef7e4cbfb85d74ac333359cf59bcc8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/a01252e49ae0e48d5c6f8ff03561a5d4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/4f18f409524b4bd9d98be0cf78e3b7d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/0adce62ffb22ebdf89a385894033c534/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/1c9d28e83bed5c73420a937d24479b46/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/2c7924471b64053d2ce96eb6030d8a82/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [com.google.android.material:material:1.1.0-alpha02] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/d4a1d18b804d28fd927d88538d8dc335/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha02] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/d4a1d18b804d28fd927d88538d8dc335/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0-alpha01] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/d662d90e3d4b98ff14ee474d87ab269f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha01] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/d662d90e3d4b98ff14ee474d87ab269f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/9d5630902c8bd2d11fbb701d0fcca9fd/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/9d5630902c8bd2d11fbb701d0fcca9fd/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha01] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/d662d90e3d4b98ff14ee474d87ab269f/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:10:9-40
+activity#mooc.vandy.java4android.diamonds.ui.MainActivity
+ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:11:19-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0-alpha02] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/d4a1d18b804d28fd927d88538d8dc335/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha02] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/d4a1d18b804d28fd927d88538d8dc335/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/07ae56a6f0611f2310ba487bfad0f50c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/07ae56a6f0611f2310ba487bfad0f50c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/3c6cc1d001d7d2e8440bdaabbe9910d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/3c6cc1d001d7d2e8440bdaabbe9910d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/2251b74d242d1c44575dd940d7fd591a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/2251b74d242d1c44575dd940d7fd591a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/82d357d5145df306cfbab50b69264939/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/82d357d5145df306cfbab50b69264939/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/97aa1e8db9c7bdd928dbc1ab19e6333b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/97aa1e8db9c7bdd928dbc1ab19e6333b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/52d9f7ef6fe5c5d3e11af99e1487d3c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/52d9f7ef6fe5c5d3e11af99e1487d3c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/79a0fa299b8e7db6215e9897abd0bfce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/79a0fa299b8e7db6215e9897abd0bfce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/e0976aa2b960c09bc631f7a765f47462/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/e0976aa2b960c09bc631f7a765f47462/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/c23d83af239368c207a03356584a8f32/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/c23d83af239368c207a03356584a8f32/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/af9665c43acf9b47cec053edc815621b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/af9665c43acf9b47cec053edc815621b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/02f421b4f4240c3cc1c405dbacd9118e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/02f421b4f4240c3cc1c405dbacd9118e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/963049739caeb01cd666e98253e63a2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/963049739caeb01cd666e98253e63a2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/093483d76ee1501d9fd53f91689513b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/093483d76ee1501d9fd53f91689513b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/c2e68a6d891c8b9b8e1d48230e860fa9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/c2e68a6d891c8b9b8e1d48230e860fa9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/4200c8783a870c7b52434a1201ac25a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/4200c8783a870c7b52434a1201ac25a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/e65d896f1191f0ed2e7bebf608ce1449/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/e65d896f1191f0ed2e7bebf608ce1449/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/d291e7c749cb50fd1e3364cae385b2be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/d291e7c749cb50fd1e3364cae385b2be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha01] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/d662d90e3d4b98ff14ee474d87ab269f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha01] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/d662d90e3d4b98ff14ee474d87ab269f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/9d5630902c8bd2d11fbb701d0fcca9fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/9d5630902c8bd2d11fbb701d0fcca9fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/e402f29a34095b1e0e3899befaffcaff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/e402f29a34095b1e0e3899befaffcaff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/43d3109e4d0607f9e44448cf611fa3ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/43d3109e4d0607f9e44448cf611fa3ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/3001e48c9e981b47c6034614cd3207a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/3001e48c9e981b47c6034614cd3207a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/555159a252573a52961f6c612b33b80b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/555159a252573a52961f6c612b33b80b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/74ec40ab96f7e84aa0bc6412fdab415b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/74ec40ab96f7e84aa0bc6412fdab415b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/ebef7e4cbfb85d74ac333359cf59bcc8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/ebef7e4cbfb85d74ac333359cf59bcc8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/a01252e49ae0e48d5c6f8ff03561a5d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/a01252e49ae0e48d5c6f8ff03561a5d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/4f18f409524b4bd9d98be0cf78e3b7d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/4f18f409524b4bd9d98be0cf78e3b7d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/0adce62ffb22ebdf89a385894033c534/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/0adce62ffb22ebdf89a385894033c534/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/1c9d28e83bed5c73420a937d24479b46/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/1c9d28e83bed5c73420a937d24479b46/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/2c7924471b64053d2ce96eb6030d8a82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/vmoonodd/.gradle/caches/transforms-2/files-2.1/2c7924471b64053d2ce96eb6030d8a82/AndroidManifest.xml:20:5-44
+INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		ADDED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vmoonodd/Documents/codebase/AndroidStudio/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml

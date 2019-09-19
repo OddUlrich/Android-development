@@ -48,6 +48,83 @@ public class Logic
 
         // TODO -- add your code here
 
+        String[] marks = {"-", "="};
+        String mark;
+
+
+        // First row.
+        System.out.print("+");
+        for (int i = 0; i < 2*size; i++) {
+            System.out.print("-");
+        }
+        System.out.println("+");
+
+        for (int row = 1; row < size*2; row++) {
+            System.out.print("|");
+
+            // Choose proper mark;
+            mark = marks[row%2];
+
+
+            // Upper half.
+            if (row < size) {
+                for (int i = 0; i < size - row; i++) {
+                    System.out.print(" ");
+                }
+
+                System.out.print("/");
+
+                for (int k = 0; k < (row-1)*2; k++) {
+                    System.out.print(mark);
+                }
+
+                System.out.print("\\");
+
+                for (int i = 0; i < size - row; i++) {
+                    System.out.print(" ");
+                }
+            }
+
+            // Lower half.
+            if (row > size) {
+                for (int i = 0; i < row - size; i++) {
+                    System.out.print(" ");
+                }
+
+                System.out.print("\\");
+
+                for (int k = 0; k < (2*size-row-1)*2; k++) {
+                    System.out.print(mark);
+                }
+
+                System.out.print("/");
+
+                for (int i = 0; i < row - size; i++) {
+                    System.out.print(" ");
+                }
+            }
+
+
+            // Central row.
+            if (row == size) {
+                System.out.print("<");
+
+                for (int k = 0; k < (size-1)*2; k++) {
+                    System.out.print(mark);
+                }
+
+                System.out.print(">");
+            }
+
+            System.out.println("|");
+        }
+
+        // Last row.
+        System.out.print("+");
+        for (int i = 0; i < 2*size; i++) {
+            System.out.print("-");
+        }
+        System.out.println("+");
     }
 
 
