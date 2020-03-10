@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="site">Customerize</string>
+
+
+    <!-- Favorite pages -->
+
+    <string name="favourite_page_header">Favourite</string>
+
+    <string name="search_hint">Enter search term</string>
+    <string name="date">date</string>
+    <string name="tag">tag</string>
+    <string name="title">title</string>
+    <string name="article_image">article image</string>
+    <string name="source">Source</string>
+    <string name="untagged">Untagged</string>
+
+</resources>
